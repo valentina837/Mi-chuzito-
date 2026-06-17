@@ -16,5 +16,10 @@
         "tailwindcss": "^3.2.1",
         "vite": "^5.0.0",
         "vue": "^3.4.0"
+    },
+    "dependencies": {
+        "jspdf": "^4.2.1",
+        "jspdf-autotable": "^5.0.8",
+        "xlsx": "^0.18.5"
     }
 }
